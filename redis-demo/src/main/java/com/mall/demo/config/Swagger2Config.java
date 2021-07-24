@@ -41,7 +41,7 @@ public class Swagger2Config {
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
                 .title("SwaggerUI演示")
-                .description("swagger-demo")
+                .description("redis-demo")
                 .contact("reminis")
                 .version("1.0.0")
                 .build();

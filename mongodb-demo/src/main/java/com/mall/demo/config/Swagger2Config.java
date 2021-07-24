@@ -46,8 +46,8 @@ public class Swagger2Config {
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("SwaggerUI演示")
-                .description("es-demo")
+                .title("MongoDB示例演示")
+                .description("mongodb-demo")
                 .contact("reminis")
                 .version("1.0")
                 .build();
